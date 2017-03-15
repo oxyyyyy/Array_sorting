@@ -1,3 +1,7 @@
+body {
+  background-image: url(../img/body_bg.png);
+  background-repeat: repeat; }
+
 .controls {
   position: absolute;
   top: 20px;
@@ -13,7 +17,7 @@
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
-  padding: 30px;
+  padding: 15px;
   margin: 0; }
 
 .column {
