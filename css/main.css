@@ -1,0 +1,26 @@
+.controls {
+  position: absolute;
+  top: 20px;
+  left: 20px; }
+  .controls button, .controls input {
+    cursor: pointer; }
+  .controls #number_input {
+    display: inline-block;
+    width: 200px; }
+
+.graph {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding: 30px;
+  margin: 0; }
+
+.column {
+  display: inline-block;
+  width: 1%;
+  height: 0;
+  background-color: #333;
+  transition: 1s; }
+
+/*# sourceMappingURL=main.css.map */
